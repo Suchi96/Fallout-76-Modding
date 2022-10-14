@@ -1,0 +1,9 @@
+adds Beam Splitter script to every gun with "No Muzzle"
+does not work for all weapons, some stop dealing damage over time.(enemys also have beam splitter lol)
+works best with legendary explosive effect weapons
+ 
+REPLACE THIS
+44 41 54 41 4C 00 00 00 00 00 02 00 00 00 00 00 57 45 41 50 00 00 9C 24 02 00 00 00 00 00 00 00 00 00 04 00 00 00 02 00 00 00 1F 00 00 00 A3 42 16 00 02 00 00 00 00 00 00 00 04 00 00 00 02 00 00 00 1F 00 00 00 2C F6 04 00 02 00 00 00 00 00 00 00
+ 
+WITH THIS
+44 41 54 41 4C 00 00 00 00 00 02 00 00 00 00 00 57 45 41 50 00 00 9C 24 02 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 33 00 00 00 00 00 C8 42 00 00 C8 42 00 00 00 00 04 00 00 00 02 00 00 00 1F 00 00 00 2C F6 04 00 02 00 00 00 00 00 00 00
